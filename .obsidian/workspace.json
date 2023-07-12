@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bd683d70ed3875f6",
+        "id": "82608d98ffb15f09",
         "type": "tabs",
         "children": [
           {
-            "id": "0c5ce55700f516a6",
+            "id": "d5a3f26cff1f5596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70232f46a2316b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
+                "file": "1 - Types Variables Operators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "1 - Types Variables Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "1 - Types Variables Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "1 - Types Variables Operators.md"
               }
             }
           },
@@ -205,10 +191,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70232f46a2316b20",
+  "active": "d5a3f26cff1f5596",
   "lastOpenFiles": [
+    "0 - Java Algorithms.md",
     "1 - Types Variables Operators.md",
-    "Index.md",
     "_config.yml",
     "assets/Pasted image 20230712112404.jpg",
     "assets",

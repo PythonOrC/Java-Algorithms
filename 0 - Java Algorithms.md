@@ -1,4 +1,3 @@
-# 0 - Java Algorithms
 
 ## 0.0 Table of Contents
 - [Java Algorithms](#java-algorithms)

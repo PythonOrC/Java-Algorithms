@@ -1,4 +1,4 @@
-# 1 - Types Variables Operators
+
 ## 1.0 Table of Contents
 - [1.1 Why learn Java?](#11-why-learn-java)
 
@@ -31,3 +31,4 @@
 	- a versatile language
 ![[Pasted image 20230712112404.jpg|center|three-quarter-width]]
 ## 1.2 Fundamentals of the Computer
+Memory
