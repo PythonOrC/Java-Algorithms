@@ -1,4 +1,7 @@
-## Why learn Java?
+## 1.0 Table of Contents
+- [1.1 Why learn Java?](#11-why-learn-java)
+
+## 1.1 Why learn Java?
 - Widely Used:
 	- web development
 	- mobile app development
@@ -25,4 +28,5 @@
 	- build applications small or large
 	- enterprise-level systems
 	- a versatile language
-![[Pasted image 20230712112404.jpg|500]]
+![[Pasted image 20230712112404.jpg|center|three-quarter-width]]
+## 1.2 Fundamentals of the Computer
