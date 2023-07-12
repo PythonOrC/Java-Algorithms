@@ -2,7 +2,7 @@
 title: 2 - More Types, Methods, Conditionals
 ---
 
-## 2.0 Table of Contents <!-- omit from toc -->
+## 2.0 Table of Contents<!-- omit from toc -->
 
 - [2.1 Session 1 Review](#21-session-1-review)
   - [2.1.1 Types](#211-types)

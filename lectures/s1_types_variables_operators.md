@@ -2,7 +2,7 @@
 title: 1 - Types, Variables, Operators
 ---
 
-## 1.0 Table of Contents <!-- omit from toc -->
+## 1.0 Table of Contents<!-- omit from toc -->
 
 - [1.1 Why learn Java?](#11-why-learn-java)
 - [1.2 Fundamentals of the Computer](#12-fundamentals-of-the-computer)
