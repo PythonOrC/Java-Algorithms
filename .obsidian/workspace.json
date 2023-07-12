@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Types Variables Operators.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Types Variables Operators.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Types Variables Operators.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Types Variables Operators.md"
+                "file": "Index.md"
               }
             }
           },
@@ -193,10 +193,11 @@
   },
   "active": "d5a3f26cff1f5596",
   "lastOpenFiles": [
-    "0 - Java Algorithms.md",
     "1 - Types Variables Operators.md",
+    "Index.md",
+    "assets/1.1.jpg",
+    "assets/1.1,jpg.md",
     "_config.yml",
-    "assets/Pasted image 20230712112404.jpg",
     "assets",
     "One For Ten Speech.md",
     "Personal Statement Notes.md",
