@@ -1,7 +1,5 @@
 # Java Algorithms
 
-[TOC]
-
 ## Description
 
 
@@ -41,5 +39,5 @@ Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWI
 
 ## Course Outline
 * Week 1: Introduction to Java
-   - Session 1: Types, Variables, Operators
-   - Session 2: More types, Methods, Conditionals
+   * Session 1: Types, Variables, Operators
+   * Session 2: More types, Methods, Conditionals
