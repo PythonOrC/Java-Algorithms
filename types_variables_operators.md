@@ -49,8 +49,7 @@ title: 1 - Types, Variables, Operators
 
 ```mermaid
 flowchart LR;
-  A[Memory] --> B[Central Processing Unit (CPU)];
-  B --> C[Input/Output (IO) Devices];
+  A("Memory") <--> B("Central Processing Unit (CPU)") <--> C("Input/Output (IO) Devices");
 ```
 
 ### CPU Instructions:

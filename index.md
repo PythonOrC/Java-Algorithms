@@ -47,5 +47,5 @@ Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWI
 ## 0.3 Course Outline
 
 - Week 1: Introduction to Java
-  - Session 1: [Types, Variables, Operators](1%20-%20Types%20Variables%20Operators.md)
+  - Session 1: [Types, Variables, Operators](types_variables_operators)
   - Session 2: More types, Methods, Conditionals
