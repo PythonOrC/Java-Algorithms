@@ -7,6 +7,7 @@ title: 0 - Java Algorithms
 - [0.0 Table of Contents](#00-table-of-contents)
 - [0.1 Description](#01-description)
 - [0.2 Course Schedule](#02-course-schedule)
+- [0.3 Class Format](#03-class-format)
 - [0.3 Course Outline](#03-course-outline)
 
 ## 0.1 Description
@@ -43,6 +44,19 @@ US Time:
 每周四、周一 上午 8:00-9:30
 
 Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWIfD8OKlp2-et3ExFE
+
+## 0.3 Class Format
+
+- Fun learning experience
+- Cameras
+- Break
+- Parents
+- Safe Space
+- Questions:
+  - Chat/Private Chat
+  - Raise Hand Function
+  - Q&A Session
+- Me: ethanhu8351@gmail.com
 
 ## 0.3 Course Outline
 
