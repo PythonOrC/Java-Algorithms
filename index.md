@@ -2,9 +2,8 @@
 title: 0 - Java Algorithms
 ---
 
-## 0.0 Table of Contents
+## 0.0 Table of Contents <!-- omit from toc -->
 
-- [0.0 Table of Contents](#00-table-of-contents)
 - [0.1 Description](#01-description)
 - [0.2 Course Schedule](#02-course-schedule)
 - [0.3 Class Format](#03-class-format)
