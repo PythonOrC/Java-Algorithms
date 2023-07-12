@@ -46,6 +46,8 @@ Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWI
 
 ## 0.3 Course Outline
 
+- Homework
+  - [Homework](homework/homework.md)
 - Week 1: Introduction to Java
-  - Session 1: [Types, Variables, Operators](types_variables_operators)
-  - Session 2: [More types, Methods, Conditionals](more_types_methods_conditionals)
+  - Session 1: [Types, Variables, Operators](lectures/types_variables_operators)
+  - Session 2: [More types, Methods, Conditionals](lectures/more_types_methods_conditionals)
