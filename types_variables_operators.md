@@ -1,6 +1,7 @@
 ---
 title: 1 - Types, Variables, Operators
 ---
+
 ## 1.0 Table of Contents
 
 - [1.0 Table of Contents](#10-table-of-contents)
@@ -44,4 +45,11 @@ title: 1 - Types, Variables, Operators
 graph Computer;
   A[Memory] --> B[Central Processing Unit (CPU)];
   B --> C[Input/Output (IO) Devices];
+```
+
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
 ```
