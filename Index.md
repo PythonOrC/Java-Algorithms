@@ -1,13 +1,12 @@
 # Java Algorithms
 
-**Table of Contents**
-
+## 0.0 Table of Contents
 - [Java Algorithms](#java-algorithms)
   - [Description](#description)
   - [Course Schedule](#course-schedule)
   - [Course Outline](#course-outline)
 
-## Description
+## 0.1 Description
 
 Welcome to the captivating realm of computer algorithms! In this course, we will embark on an exploratory journey into the fundamental principles of algorithms and their profound impact on our digital landscape. Our primary medium for comprehending and implementing algorithms will be the esteemed programming language, Java. Through a combination of interactive discussions, practical coding exercises, and engaging activities, we will equip you with the knowledge and skills necessary to design, analyze, and implement algorithms proficiently.
 
@@ -25,7 +24,7 @@ Course Objectives:
 
 By the culmination of this course, you will possess a strong foundation in algorithmic thinking and the capacity to apply your knowledge in resolving an array of computational problems. Whether your aspirations lie in software engineering, data science, or merely honing your problem-solving acumen, this course will provide you with an indomitable foothold in the intricate realm of algorithms and programming.
 
-## Course Schedule
+## 0.2 Course Schedule
 
 4 Weeks (8 Sessions)
 2 Sessions per Week
@@ -42,7 +41,7 @@ US Time:
 
 Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWIfD8OKlp2-et3ExFE
 
-## Course Outline
+## 0.3 Course Outline
 
 - Week 1: Introduction to Java
   - Session 1: [Types, Variables, Operators](Types%20Variables%20Operators.md)

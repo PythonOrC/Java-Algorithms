@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types Variables Operators.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types Variables Operators.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types Variables Operators.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types Variables Operators.md"
+                "file": "Index.md"
               }
             }
           },
@@ -207,11 +207,11 @@
   },
   "active": "70232f46a2316b20",
   "lastOpenFiles": [
+    "Types Variables Operators.md",
     "_config.yml",
     "assets/Pasted image 20230712112404.jpg",
     "assets",
-    "README.md",
-    "Types Variables Operators.md",
+    "Index.md",
     "One For Ten Speech.md",
     "Personal Statement Notes.md",
     "College Visit.md",
