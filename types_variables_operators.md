@@ -47,10 +47,7 @@ title: 1 - Types, Variables, Operators
 
 ### Computer Logic:
 
-```mermaid
-flowchart LR;
-  A("Memory") <--> B("Central Processing Unit (CPU)") <--> C("Input/Output (IO) Devices");
-```
+[![](https://mermaid.ink/img/pako:eNo9kE9rhDAQxb9KmNMKrjUa_yRbCq17Weiyy5a9FC9BoxvQRGJsa8Xv3rSlZQ4z8_jNezALVLoWwKDp9Ht148ai58uuVAg9bko4il6buQQP3W-3D-jJSYVQ1vAOnY2uxDhK1aKrkhZtivPV-ycLRx7UMNm702RdQ5vDyUN78SbdkaN24EMvTM9l7bKX77wS7E30ogTmRldqdQyfrH6ZVQXMmkn4MA01t2IveWt4D6zh3ejUgatXrfs_yK3AFvgAhkkSRCTHeURpnoU0iXyYgZGQBpRkMc5wGKcxTZPVh88fhzDIEhxjkmc5SeOMJNgHUUurzfH3T5VWjWxh_QLfCl1e?type=png)](https://mermaid.live/edit#pako:eNo9kE9rhDAQxb9KmNMKrjUa_yRbCq17Weiyy5a9FC9BoxvQRGJsa8Xv3rSlZQ4z8_jNezALVLoWwKDp9Ht148ai58uuVAg9bko4il6buQQP3W-3D-jJSYVQ1vAOnY2uxDhK1aKrkhZtivPV-ycLRx7UMNm702RdQ5vDyUN78SbdkaN24EMvTM9l7bKX77wS7E30ogTmRldqdQyfrH6ZVQXMmkn4MA01t2IveWt4D6zh3ejUgatXrfs_yK3AFvgAhkkSRCTHeURpnoU0iXyYgZGQBpRkMc5wGKcxTZPVh88fhzDIEhxjkmc5SeOMJNgHUUurzfH3T5VWjWxh_QLfCl1e)
 
 ### CPU Instructions:
 
@@ -79,8 +76,4 @@ STORE z
 
 - Java is a compiled language
 - Java source code is compiled into bytecode
-
-```mermaid
-flowchart LR;
-  A[Java Source Code (.java)] --> B[Java Compiler (javac)] --> C[Bytecode (.class)] --> D[Java Virtual Machine (java)];
-```
+[![](https://mermaid.ink/img/pako:eNpFkM1uwjAQhF_F2lOQAgrGzo-pKhU4VeVSpB6QLyvHNKmcGBmnLY3y7nVAEbfd2W9Wo-lB2VKDgJOxP6pC58nb-1q2hLxEEl7xG8nBdk5psg0ciRZfQZpJmJGn-fyZbCZoa5tzbbQj0QioB7ENxObqtbrblcHL5XHdTf6P2vkODdmjqupW39-M3BpiaLRrsC5Dyn5MJsFXutESRBhLfcLOeAmyHQKKnbeHa6tAeNfpGLpziV7vavx02IA4obkE9Yzt0dpmgsIKoodfEDxfJFmRJnmerFLK0jSGKwhG2SJnWcE5Leiy4HSI4e_mT4K-LChnOVtxyjNexKDL2lu3v9d6a3f4B4ukavI?type=png)](https://mermaid.live/edit#pako:eNpFkM1uwjAQhF_F2lOQAgrGzo-pKhU4VeVSpB6QLyvHNKmcGBmnLY3y7nVAEbfd2W9Wo-lB2VKDgJOxP6pC58nb-1q2hLxEEl7xG8nBdk5psg0ciRZfQZpJmJGn-fyZbCZoa5tzbbQj0QioB7ENxObqtbrblcHL5XHdTf6P2vkODdmjqupW39-M3BpiaLRrsC5Dyn5MJsFXutESRBhLfcLOeAmyHQKKnbeHa6tAeNfpGLpziV7vavx02IA4obkE9Yzt0dpmgsIKoodfEDxfJFmRJnmerFLK0jSGKwhG2SJnWcE5Leiy4HSI4e_mT4K-LChnOVtxyjNexKDL2lu3v9d6a3f4B4ukavI)
