@@ -15,7 +15,7 @@ title: 1 - Types, Variables, Operators
   - [1.3.1 HelloWorld.java](#131-helloworldjava)
   - [1.3.2 Program Structure](#132-program-structure)
   - [1.3.3 Output to the Console](#133-output-to-the-console)
-- [1.4 Types and Variables](#14-types-and-variables)
+- [1.4 Types](#14-types)
   - [1.4.1 Primitive Data Types](#141-primitive-data-types)
   - [1.4.2 Default Values](#142-default-values)
 - [1.5 Variables](#15-variables)
@@ -131,7 +131,7 @@ class CLASSNAME{
 System.out.println("some string");
 ```
 
-## 1.4 Types and Variables
+## 1.4 Types
 
 - Java is a statically typed language
   - variables must be declared before they can be used
