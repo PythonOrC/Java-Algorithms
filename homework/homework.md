@@ -42,7 +42,7 @@ class FallingObject{
 
 ## Solution
 
-```java
+```
 Solution will be released at the beginning of the next session
 ```
 
