@@ -1,5 +1,6 @@
 ---
 title: Assignments
+permalink: /homework/
 ---
 
 # 0 - Table of Contents
