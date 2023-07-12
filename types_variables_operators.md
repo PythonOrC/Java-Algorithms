@@ -7,6 +7,10 @@ title: 1 - Types, Variables, Operators
 - [1.0 Table of Contents](#10-table-of-contents)
 - [1.1 Why learn Java?](#11-why-learn-java)
 - [1.2 Fundamentals of the Computer](#12-fundamentals-of-the-computer)
+  - [Computer Logic:](#computer-logic)
+  - [CPU Instructions:](#cpu-instructions)
+  - [Programming Languages](#programming-languages)
+  - [Compile Java](#compile-java)
 
 ## 1.1 Why learn Java?
 
@@ -41,8 +45,10 @@ title: 1 - Types, Variables, Operators
 
 ## 1.2 Fundamentals of the Computer
 
+### Computer Logic:
+
 ```mermaid
-graph Computer;
+graph LR;
   A[Memory] --> B[Central Processing Unit (CPU)];
   B --> C[Input/Output (IO) Devices];
 ```
@@ -52,4 +58,37 @@ pie title Pets adopted by volunteers
   "Dogs" : 386
   "Cats" : 85
   "Rats" : 35
+```
+
+### CPU Instructions:
+
+```java
+z=x+y;
+```
+
+```
+LOAD x
+ADD  y
+STORE z
+```
+
+### Programming Languages
+
+- High-level languages
+  - Java
+  - Python
+  - C++
+  - C#
+  - etc
+- wasier to understand than assembly
+- must be translate to machine code to run
+
+### Compile Java
+
+- Java is a compiled language
+- Java source code is compiled into bytecode
+
+```mermaid
+graph LR;
+  A[Java Source Code (.java)] --> B[Java Compiler (javac)] --> C[Bytecode (.class)] --> D[Java Virtual Machine (java)];
 ```
