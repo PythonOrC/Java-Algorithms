@@ -1,9 +1,12 @@
 # 0 - Java Algorithms
+
 ## 0.0 Table of Contents
-- [Java Algorithms](#java-algorithms)
-  - [Description](#description)
-  - [Course Schedule](#course-schedule)
-  - [Course Outline](#course-outline)
+
+- [0 - Java Algorithms](#0---java-algorithms)
+  - [0.0 Table of Contents](#00-table-of-contents)
+  - [0.1 Description](#01-description)
+  - [0.2 Course Schedule](#02-course-schedule)
+  - [0.3 Course Outline](#03-course-outline)
 
 ## 0.1 Description
 
