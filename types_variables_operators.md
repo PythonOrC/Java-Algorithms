@@ -336,13 +336,19 @@ message += "!";
 Compute the position of a falling object and print it
 
 - use the equation
-- `position = 0.5 * g * time * time`
-- where `g` is the gravity constant `9.8 m/s^2`
-- `position` is in meters and `time` is in seconds
+- `position = 0.5 * g * time * time + initialVelocity * time + initialPosition`
+- where `g` is the gravity constant `-9.8 m/s^2`
+- `position` is in meters
+- `time` is in seconds
+- `initialVelocity` is in meters per second
+- `initialPosition` is in meters
 
 ```java
-class Compute{
+class FallingObject{
   public static void main(String[] args){
+    double initialVelocity = 0.0;
+    double initialPosition = 0.0;
+    double g = -9.8;
     double time = 10.0;
     double position;
     //do some calculations
