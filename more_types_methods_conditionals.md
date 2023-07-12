@@ -40,14 +40,4 @@ System.out.println(c);
 
 ### 2.1.4 Solution to Homework 1
 
-```java
-class FallingObject{
-  public static void main(String[] args){
-    double g = 9.8;
-    double t = 10;
-    double v = g * t;
-    double h = 0.5 * g * t * t;
-    System.out.println("The velocity of the object is " + v + " m/s.");
-    System.out.println("The height of the object is " + h + " m.");
-  }
-}
+[View Solution](homework/FallingObject.java)
