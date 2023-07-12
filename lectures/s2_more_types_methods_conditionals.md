@@ -27,7 +27,7 @@ title: 2 - More Types, Methods, Conditionals
   - [2.3.6 Return Values](#236-return-values)
     - [Square4.java](#square4java)
   - [2.3.7 Variable Scope](#237-variable-scope)
-    - [Scope1.java](#scope1java)
+    - [Scope.java](#scopejava)
   - [2.3.8 Abstraction](#238-abstraction)
 
 ## 2.1 Session 1 Review
@@ -265,7 +265,7 @@ class Square4{
 - The scope of a variable is the part of the program where the variable is accessible.
 - variables only exist within the block `{}` they are defined in
 
-#### Scope1.java
+#### Scope.java
 
 ```java
 class Scope1{
