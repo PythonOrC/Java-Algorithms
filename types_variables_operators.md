@@ -48,16 +48,9 @@ title: 1 - Types, Variables, Operators
 ### Computer Logic:
 
 ```mermaid
-graph LR;
+flowchart LR;
   A[Memory] --> B[Central Processing Unit (CPU)];
   B --> C[Input/Output (IO) Devices];
-```
-
-```mermaid!
-pie title Pets adopted by volunteers
-  "Dogs" : 386
-  "Cats" : 85
-  "Rats" : 35
 ```
 
 ### CPU Instructions:
@@ -89,6 +82,6 @@ STORE z
 - Java source code is compiled into bytecode
 
 ```mermaid
-graph LR;
+flowchart LR;
   A[Java Source Code (.java)] --> B[Java Compiler (javac)] --> C[Bytecode (.class)] --> D[Java Virtual Machine (java)];
 ```
