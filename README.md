@@ -1,8 +1,11 @@
 # Java Algorithms
 
 **Table of Contents**
-- [Course Schedule](#course-schedule)
-- [Course Outline](#course-outline)
+
+- [Java Algorithms](#java-algorithms)
+  - [Description](#description)
+  - [Course Schedule](#course-schedule)
+  - [Course Outline](#course-outline)
 
 ## Description
 
@@ -39,8 +42,8 @@ US Time:
 
 Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWIfD8OKlp2-et3ExFE
 
-
 ## Course Outline
-* Week 1: Introduction to Java
-   * Session 1: Types, Variables, Operators
-   * Session 2: More types, Methods, Conditionals
+
+- Week 1: Introduction to Java
+  - Session 1: [Types, Variables, Operators](Types%20Variables%20Operators.md)
+  - Session 2: More types, Methods, Conditionals
