@@ -1,4 +1,4 @@
-# Types Variables Operators
+# 1 - Types Variables Operators
 ## 1.0 Table of Contents
 - [1.1 Why learn Java?](#11-why-learn-java)
 
