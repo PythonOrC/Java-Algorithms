@@ -1,3 +1,6 @@
+---
+title: 1 - Types, Variables, Operators
+---
 ## 1.0 Table of Contents
 
 - [1.0 Table of Contents](#10-table-of-contents)
