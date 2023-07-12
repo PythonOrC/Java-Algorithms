@@ -46,6 +46,6 @@ class FallingObject{
 Solution will be released at the beginning of the next session
 ```
 
-[Downlaod Solution](homework/FallingObject.java)
+[Downlaod Solution](FallingObject.java)
 
 [**Return to Main Page**](index)
