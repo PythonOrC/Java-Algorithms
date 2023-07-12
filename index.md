@@ -48,4 +48,4 @@ Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWI
 
 - Week 1: Introduction to Java
   - Session 1: [Types, Variables, Operators](types_variables_operators)
-  - Session 2: More types, Methods, Conditionals
+  - Session 2: [More types, Methods, Conditionals](more_types_methods_conditionals)
