@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "09d86db970d56302",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba050af8e83a279e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77beb34a954c4530",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cceae984f4232162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4d8d3a69ceb2952",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b08ae1f4e601df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58df3439d1e08b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56fa4b98fb45a369",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d88abd39a32b92ee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f10c52c17a5ed524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "f1d44c7f3554ec3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d4ee06ec1ae43b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfca596da056b42d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebbbe2a700ade0a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "952eb16510776e90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "576938bad0e5d17c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "4123ea40ffbe6c51",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "37fea633700e7422",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "387d03a3dbecc4bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5a2a1781b45b888",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cceae984f4232162",
+  "lastOpenFiles": [
+    "One For Ten Speech.md",
+    "Personal Statement Notes.md",
+    "College Visit.md",
+    "assets/Pasted image 20230628081335.png",
+    "assets/Pasted image 20230628081326.png",
+    "assets/Pasted image 20230628081301.png",
+    "assets",
+    "Summer Toys.xmind",
+    "attempt failed.canvas",
+    "Documenting History 6.md",
+    "Documenting History 4 list.md",
+    "Documenting History 4.md",
+    "Chem Galvanic Notes.md",
+    "ACSL Prep.md",
+    "1930s.md",
+    "1920s Roaring Twenties.md",
+    "Foreign Policy.md",
+    "Intro.md",
+    "Neoliberalism.md",
+    "Research Paper.md",
+    "Documenting History 5.md",
+    "Story Breakdown.md",
+    "assets/Pasted image 20230526223013.png",
+    "assets/PG_2020.06.25_Global-Views-Homosexuality_0-01.webp",
+    "assets/Pic3.webp",
+    "Unions.md",
+    "04-24-2023.md",
+    "The History of Unions in the United States.md",
+    "assets/Pasted image 20230321211550.png",
+    "assets/Pasted image 20230321211603.png",
+    "assets/Pasted image 20230321211541.png",
+    "assets/Pasted image 20230321211325.png",
+    "().md",
+    "Pic3.webp =250x.md"
+  ]
+}
