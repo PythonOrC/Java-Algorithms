@@ -25,4 +25,4 @@
 	- build applications small or large
 	- enterprise-level systems
 	- a versatile language
-![[Pasted image 20230712112404.jpg]]
+![[Pasted image 20230712112404.jpg|0.5\width]]
