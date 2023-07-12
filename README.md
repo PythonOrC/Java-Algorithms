@@ -1,7 +1,10 @@
 # Java Algorithms
 
-## Description
+**Table of Contents**
+- [Course Schedule](#course-schedule)
+- [Course Outline](#course-outline)
 
+## Description
 
 Welcome to the captivating realm of computer algorithms! In this course, we will embark on an exploratory journey into the fundamental principles of algorithms and their profound impact on our digital landscape. Our primary medium for comprehending and implementing algorithms will be the esteemed programming language, Java. Through a combination of interactive discussions, practical coding exercises, and engaging activities, we will equip you with the knowledge and skills necessary to design, analyze, and implement algorithms proficiently.
 
