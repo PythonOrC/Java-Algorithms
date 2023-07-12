@@ -34,3 +34,9 @@ US Time:
 每周四、周一 上午 8:00-9:30
 
 Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWIfD8OKlp2-et3ExFE
+
+
+## Course Outline
+ - Week 1: Introduction to Java
+   - Session 1: Basic Syntax
+   - Session 2: 
