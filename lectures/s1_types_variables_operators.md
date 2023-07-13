@@ -64,7 +64,7 @@ permalink: /lectures/s1_types_variables_operators
   - enterprise-level systems
   - a versatile language
 
-<p style="text-align:center"><img src="images/1.1.jpg" width="75%"></p>
+<p style="text-align:center"><img src="../images/1.1.jpg" width="75%"></p>
 
 ## 1.2 Fundamentals of the Computer
 
