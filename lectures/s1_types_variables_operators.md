@@ -1,5 +1,6 @@
 ---
 title: 1 - Types, Variables, Operators
+permalink: /lectures/s1_types_variables_operators
 ---
 
 ## 1.0 Table of Contents<!-- omit from toc -->
