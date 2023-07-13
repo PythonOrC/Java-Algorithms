@@ -1,5 +1,6 @@
 ---
 title: 2 - More Types, Methods, Conditionals
+permalink: /lectures/more_types_methods_conditionals
 ---
 
 ## 2.0 Table of Contents<!-- omit from toc -->
