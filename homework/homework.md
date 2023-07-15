@@ -3,9 +3,8 @@ title: Assignments
 permalink: /homework/
 ---
 
-# 0 - Table of Contents
+# 0 - Table of Contents<!-- omit from toc -->
 
-- [0 - Table of Contents](#0---table-of-contents)
 - [1 - Assignment 1: Falling Object](#1---assignment-1-falling-object)
   - [Question](#question)
   - [Solution](#solution)
@@ -92,6 +91,6 @@ Solution will be posted a day before the next class
 
 [Downlaod Solution](WageCalculator.java)
 
-[**Return to Top**](#20-table-of-contents)
+[**Return to Top**](#0---table-of-contents)
 
 [**Return to Main Page**](index)
