@@ -1,3 +1,5 @@
+// Solution is yet to be posted, but here is a hint for you if you are stuck:
+
 class WageCalculator {
 
     public static void calculateWage(double hourlyWage, int hours) {
