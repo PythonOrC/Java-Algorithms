@@ -430,26 +430,24 @@ public static void main(String[] args){
 
 ## 2.5 Assignment 2 - Wage Calculator
 
-Write a method that calculates the weekly wage of an employee. The method should take as input the number of hours worked and the hourly wage, and return the total wage.
+Write a method that calculates the weekly wage of an employee. The method should take as input the number of hours worked and the hourly wage, and print the total wage.
 
-- If the number of hours worked is greater than 40, the employee is paid 1.5 times the hourly wage for the extra hours.
-- The maximum number of hours worked is 60.
-- The hourly wage is at least $8.00 an hour.
+- An employee gets paid (hours worked) × (hourly rate), for each hour up to 40 hours.
+- For every hour over 40, they get overtime = (hourly rate) × 1.5.
+- The base pay must not be less than the minimum wage ($15.00 an hour). If it is, print an error.
+- If the number of hours is greater than 60, print an error message.
 
 **Specifications**:
 
-- Name the method `computeWage`
+- Name the method `calculateWage`
 - input: `int hours`, `double wage`
 - output: no return value and print the result
 
-**Reminders**:
+**Cases**:
 
-- to convert a `int` to a `String`, use one of the following:
-  - `String s = "" + 5;`
-  - `String s = Integer.toString(5);`
-- to convert a `String` to an `int` use one of the following:
-  - `int x = Integer.parseInt("5");`
-- do not call `==` on `double` values
+- find the wage for an employee who worked 50 hours at $9.99/hour
+- find the wage for an employee who worked 50 hours at $15.00/hour
+- find the wage for an employee who worked 63 hours at $25.00/hour
 
 <!-- [View Solution](/homework#2---assignment-2---wage-calculator) -->
 
