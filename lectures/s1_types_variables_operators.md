@@ -359,6 +359,6 @@ class FallingObject{
 }
 ```
 
-[**Return to Top**](#10-Table-of-Contents)
+[**Return to Top**](#10-table-of-contents)
 
 [**Return to Main Page**](index)

@@ -291,6 +291,6 @@ class Scope1{
 - user of method does not need to know how it works.
 - this is called `abstraction`
 
-[**Return to Top**](#20-Table-of-Contents)
+[**Return to Top**](#20-table-of-contents)
 
 [**Return to Main Page**](index)
