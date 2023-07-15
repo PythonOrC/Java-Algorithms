@@ -33,7 +33,7 @@ permalink: /lectures/s1_types_variables_operators
   - [1.6.7 DoMath.java](#167-domathjava)
   - [1.6.8 DoMath2.java](#168-domath2java)
   - [1.6.9 String Concatenation](#169-string-concatenation)
-- [1.7 Assignment](#17-assignment)
+- [1.7 Assignment 1 - Falling Object](#17-assignment-1---falling-object)
 
 ## 1.1 Why learn Java?
 
@@ -331,7 +331,7 @@ message += "!";
 //message = "Hello World!"
 ```
 
-## 1.7 Assignment
+## 1.7 Assignment 1 - Falling Object
 
 Compute the position of a falling object and print it
 
@@ -359,7 +359,7 @@ class FallingObject{
 }
 ```
 
-[View Solution](/homework#1---homework-1-falling-object)
+[View Solution](/homework#1---assignment-1-falling-object)
 
 [**Return to Top**](#10-table-of-contents)
 

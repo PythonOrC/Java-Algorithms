@@ -29,6 +29,13 @@ permalink: /lectures/more_types_methods_conditionals
   - [2.3.7 Variable Scope](#237-variable-scope)
     - [Scope.java](#scopejava)
   - [2.3.8 Abstraction](#238-abstraction)
+- [2.4 Conditionals](#24-conditionals)
+  - [2.4.1 If Statements](#241-if-statements)
+  - [2.4.2 Comparison Operators](#242-comparison-operators)
+  - [2.4.3 Logical Operators](#243-logical-operators)
+  - [2.4.4 If-Else Statements](#244-if-else-statements)
+  - [2.4.5 If-Else-If Statements](#245-if-else-if-statements)
+- [2.5 Assignment 2 - Wage Calculator](#25-assignment-2---wage-calculator)
 
 ## 2.1 Session 1 Review
 
@@ -291,7 +298,160 @@ class Scope1{
 - user of method does not need to know how it works.
 - this is called `abstraction`
 
+## 2.4 Conditionals
 
+### 2.4.1 If Statements
+
+```java
+if (CONDITION) {
+  // code to be executed if condition is true
+}
+```
+
+```java
+public static void test(int x) {
+  if (x > 5) {
+    System.out.println("x is greater than 5");
+  }
+}
+
+public static void main(Stringp[] args){
+  test(6); // x is greater than 5
+  test(5);
+  test(4);
+}
+```
+
+```java
+Class AbsoluteValue{
+  public static int abs(int x) {
+    if (x < 0) {
+      return -x;
+    } else {
+      return x;
+    }
+  }
+
+  public static void main(String[] args){
+    System.out.println(abs(5)); // 5
+    System.out.println(abs(-5)); // 5
+  }
+}
+```
+
+### 2.4.2 Comparison Operators
+
+| Operator | Description                | Example |
+| -------- | -------------------------- | ------- |
+| ==       | equal to (= is assignment) | x == y  |
+| !=       | not equal to               | x != y  |
+| >        | greater than               | x > y   |
+| <        | less than                  | x < y   |
+| >=       | greater than or equal to   | x >= y  |
+| <=       | less than or equal to      | x <= y  |
+
+### 2.4.3 Logical Operators
+
+| Operator | Description | Example  |
+| -------- | ----------- | -------- |
+| &&       | and         | x && y   |
+| \|\|     | or          | x \|\| y |
+| !        | not         | !x       |
+
+```java
+if (x>6){
+  if (x<10){
+    System.out.println("x is between 6 and 10");
+  }
+}
+```
+
+```java
+if (x>6 && x<10){
+  System.out.println("x is between 6 and 10");
+}
+```
+
+### 2.4.4 If-Else Statements
+
+```java
+if (CONDITION) {
+  // code to be executed if condition is true
+} else {
+  // code to be executed if condition is false
+}
+```
+
+```java
+public static void test(int x){
+  if (x > 5) {
+    System.out.println("x is greater than 5");
+  } else {
+    System.out.println("x is less than or equal to 5");
+  }
+}
+
+public static void main(String[] args){
+  test(6); // x is greater than 5
+  test(5); // x is less than or equal to 5
+  test(4); // x is less than or equal to 5
+}
+```
+
+### 2.4.5 If-Else-If Statements
+
+```java
+if (CONDITION1) {
+  // code to be executed if condition1 is true
+} else if (CONDITION2) {
+  // code to be executed if the condition1 is false and condition2 is true
+} else {
+  // code to be executed if the condition1 is false and condition2 is false
+}
+```
+
+```java
+public static void test(int x){
+  if (x > 5) {
+    System.out.println("x is greater than 5");
+  } else if (x < 5) {
+    System.out.println("x is less than 5");
+  } else {
+    System.out.println("x is equal to 5");
+  }
+}
+
+public static void main(String[] args){
+  test(6); // x is greater than 5
+  test(5); // x is equal to 5
+  test(4); // x is less than 5
+}
+```
+
+## 2.5 Assignment 2 - Wage Calculator
+
+Write a method that calculates the weekly wage of an employee. The method should take as input the number of hours worked and the hourly wage, and return the total wage.
+
+- If the number of hours worked is greater than 40, the employee is paid 1.5 times the hourly wage for the extra hours.
+- The maximum number of hours worked is 60.
+- The hourly wage is at least $8.00 an hour.
+
+**Specifications**:
+
+- Name the method `computeWage`
+- input: `int hours`, `double wage`
+- output: no return value and print the result
+
+**Reminders**:
+
+- to convert a `int` to a `String`, use one of the following:
+  - `String s = "" + 5;`
+  - `String s = Integer.toString(5);`
+- to convert a `String` to an `int` use one of the following:
+  - `int x = Integer.parseInt("5");`
+- do not call `==` on `double` values
+
+<!-- [View Solution](/homework#2---assignment-2---wage-calculator) -->
 
 [**Return to Top**](#20-table-of-contents)
 
