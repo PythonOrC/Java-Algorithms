@@ -7,7 +7,7 @@ permalink: /lectures/loops_arrays
 
 - [3.1 Session 2 Review](#31-session-2-review)
   - [3.1.1 Review of Topics](#311-review-of-topics)
-  - [3.1.2 Homework 2 Review](#312-homework-2-review)
+  - [3.1.2 Solution to Assignment 2](#312-solution-to-assignment-2)
 - [3.2 Good Programming Style](#32-good-programming-style)
   - [3.2.1 Rule #1: Naming Conventions](#321-rule-1-naming-conventions)
   - [3.2.2 Rule #2: Indentation](#322-rule-2-indentation)
@@ -28,7 +28,9 @@ permalink: /lectures/loops_arrays
 - Methods and parameters
 - Conditionals
 
-### 3.1.2 Homework 2 Review
+### 3.1.2 Solution to Assignment 2
+
+[View Solution](/homework#2---assignment-2---wage-calculator)
 
 ## 3.2 Good Programming Style
 
@@ -180,3 +182,5 @@ for (int i = 0; i < 10; i++) {
 - `break` and `continue` are two branching statements that are used with loops
 
 ```java
+
+```
