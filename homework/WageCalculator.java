@@ -1,20 +1,19 @@
-// Solution is yet to be posted, but here is a hint for you if you are stuck:
-
 class WageCalculator {
 
     public static void calculateWage(double hourlyWage, int hours) {
-        /*
-         * think about the possible cases and write the code to handle them
-         * 
-         * case 1: hourlyWage < 15.0
-         * - give error
-         * case 2: hours > 60
-         * - give error
-         * case 3: hours > 40 and hours <= 60
-         * - calculate wage with overtime
-         * case 4: hours <= 40
-         * - calculate wage
-         */
+        if (hourlyWage < 15.0) {
+            System.out.println("You must be paid at least $15.00/hour.");
+        } else if (hours > 60) {
+            System.out.println("You cannot work more than 60 hours in a week.");
+        } else {
+            double wage = 0.0;
+            if (hours > 40) {
+                wage = 40 * hourlyWage + (hours - 40) * hourlyWage * 1.5;
+            } else {
+                wage = hours * hourlyWage;
+            }
+            System.out.println("You earned $" + wage + " this week.");
+        }
     }
 
     public static void main(String[] args) {

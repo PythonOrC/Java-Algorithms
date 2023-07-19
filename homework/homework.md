@@ -5,14 +5,17 @@ permalink: /homework/
 
 # 0 - Table of Contents<!-- omit from toc -->
 
-- [1 - Assignment 1: Falling Object](#1---assignment-1-falling-object)
+- [Assignment 1: Falling Object](#assignment-1-falling-object)
   - [Question](#question)
   - [Solution](#solution)
-- [2 - Assignment 2 - Wage Calculator](#2---assignment-2---wage-calculator)
+- [Assignment 2: Wage Calculator](#assignment-2-wage-calculator)
   - [Question](#question-1)
   - [Solution](#solution-1)
+- [Assignment 3: Marathon Runners](#assignment-3-marathon-runners)
+  - [Question](#question-2)
+  - [Solution](#solution-2)
 
-# 1 - Assignment 1: Falling Object
+# Assignment 1: Falling Object
 
 ## Question
 
@@ -60,7 +63,7 @@ class FallingObject{
 
 [Downlaod Solution](FallingObject.java)
 
-# 2 - Assignment 2 - Wage Calculator
+# Assignment 2: Wage Calculator
 
 ## Question
 
@@ -85,11 +88,103 @@ Write a method that calculates the weekly wage of an employee. The method should
 
 ## Solution
 
-```
-Solution will be posted a day before the next class
+```java
+class WageCalculator {
+
+    public static void calculateWage(double hourlyWage, int hours) {
+        if (hourlyWage < 15.0) {
+            System.out.println("You must be paid at least $15.00/hour.");
+        } else if (hours > 60) {
+            System.out.println("You cannot work more than 60 hours in a week.");
+        } else {
+            double wage = 0.0;
+            if (hours > 40) {
+                wage = 40 * hourlyWage + (hours - 40) * hourlyWage * 1.5;
+            } else {
+                wage = hours * hourlyWage;
+            }
+            System.out.println("You earned $" + wage + " this week.");
+        }
+    }
+
+    public static void main(String[] args) {
+        calculateWage(9.99, 50);
+        calculateWage(15.00, 50);
+        calculateWage(25.00, 63);
+    }
+}
 ```
 
 [Downlaod Solution](WageCalculator.java)
+
+# Assignment 3: Marathon Runners
+
+## Question
+
+A group of students decided to run in a Marathon. Their names and finishing times are given below. Write a program that print out the name of the fastest runner.
+
+| Name     | Time (minutes) |
+| -------- | -------------- |
+| Elena    | 341            |
+| Thomas   | 273            |
+| Hamilton | 278            |
+| Suzie    | 329            |
+| Phil     | 445            |
+| Matt     | 402            |
+| Alex     | 388            |
+| Emma     | 275            |
+| John     | 243            |
+| James    | 334            |
+| Jane     | 412            |
+| Emily    | 393            |
+| Daniel   | 299            |
+| Neda     | 343            |
+| Aaron    | 317            |
+| Kate     | 265            |
+
+**Specifications**
+
+- Write a method that takes as input an array of integers and returns the index corresponding to the person with the lowest time. Run this method on the array of `times`. Print out the `name` and `time` corresponding to the returned index.
+
+- Write a second method to find the second-best runner. The second method should use the first method to determine the best runner, and then loop through all values to find the second-best (second lowest) time.
+
+**Program Skeleton**
+
+```java
+class Marathon {
+    public static void main (String[] args) {
+        String[] names = {
+            "Elena", "Thomas", "Hamilton", "Suzie", "Phil", "Matt", "Alex",
+            "Emma", "John", "James", "Jane", "Emily", "Daniel", "Neda",
+            "Aaron", "Kate"
+        };
+
+        int[] times = {
+            341, 273, 278, 329, 445, 402, 388, 275, 243, 334, 412, 393, 299,
+            343, 317, 265
+        };
+
+        // call method to find the index of the fastest runner
+        // print out the name and time of the fastest runner
+        int fastestIndex = findFastestRunner(times);
+        System.out.println("Fastest runner: " + names[fastestIndex] + " (" + times[fastestIndex] + " minutes)");
+
+        // call method to find the index of the second-best runner
+        // print out the name and time of the second-best runner
+        int secondBestIndex = findSecondBestRunner(times);
+        System.out.println("Second-best runner: " + names[secondBestIndex] + " (" + times[secondBestIndex] + " minutes)");
+    }
+}
+
+```
+
+## Solution
+
+```
+Solutions will be posted a day before the class.
+```
+
+[Downlaod Solution](MarathonRunners.java)
 
 [**Return to Top**](#0---table-of-contents)
 

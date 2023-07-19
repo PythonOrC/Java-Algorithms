@@ -359,7 +359,7 @@ class FallingObject{
 }
 ```
 
-[View Solution](/homework#1---assignment-1-falling-object)
+[View Solution](/homework#assignment-1-falling-object)
 
 [**Return to Top**](#10-table-of-contents)
 

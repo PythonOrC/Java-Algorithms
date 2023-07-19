@@ -66,7 +66,7 @@ System.out.println(c);
 
 ### 2.1.4 Solution to Homework 1
 
-[View Solution](/homework#1---assignment-1-falling-object)
+[View Solution](/homework#assignment-1-falling-object)
 
 ## 2.2 More Types
 
@@ -449,7 +449,7 @@ Write a method that calculates the weekly wage of an employee. The method should
 - find the wage for an employee who worked 50 hours at $15.00/hour
 - find the wage for an employee who worked 63 hours at $25.00/hour
 
-[View Solution](/homework#2---assignment-2---wage-calculator)
+[View Solution](/homework#assignment-2-wage-calculator)
 
 [**Return to Top**](#20-table-of-contents)
 
