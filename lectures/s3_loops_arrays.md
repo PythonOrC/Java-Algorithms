@@ -8,6 +8,9 @@ permalink: /lectures/loops_arrays
 - [3.1 Session 2 Review](#31-session-2-review)
   - [3.1.1 Review of Topics](#311-review-of-topics)
   - [3.1.2 Solution to Assignment 2](#312-solution-to-assignment-2)
+  - [3.1.3 Frequent Error #1](#313-frequent-error-1)
+  - [3.1.4 Frequent Error #2](#314-frequent-error-2)
+  - [3.1.5 Frequent Error #3](#315-frequent-error-3)
 - [3.2 Good Programming Style](#32-good-programming-style)
   - [3.2.1 Rule #1: Naming Conventions](#321-rule-1-naming-conventions)
   - [3.2.2 Rule #2: Indentation](#322-rule-2-indentation)
@@ -41,6 +44,49 @@ permalink: /lectures/loops_arrays
 ### 3.1.2 Solution to Assignment 2
 
 [View Solution](/homework#assignment-2-wage-calculator)
+
+### 3.1.3 Frequent Error #1
+
+The declaration of the `main` method should be and can only be:
+
+```java
+public static void main(String[] args) {
+    // code
+}
+```
+
+### 3.1.4 Frequent Error #2
+
+Return values: if a method has a return type, it must return a value of that type
+
+```java
+public static double calculateWage(double hourlyWage, int hours) {
+    if (hourlyWage < 15.0)
+        return -1.0
+        else if (hours > 60)
+        return -1.0
+        else {
+        double wage = 0.0;
+        ...
+        return wage;
+    }
+}
+```
+
+### 3.1.5 Frequent Error #3
+
+variables can only be declared once, and no two variables can have the same name
+
+```java
+public static int pay(double hourlyWage, int hours) {
+    int wage = 0; // OK
+    …
+    int wage = 0; // salary already defined!!
+    …
+    double wage = 0; //salary already defined!!
+    …
+}
+```
 
 ## 3.2 Good Programming Style
 
@@ -395,4 +441,3 @@ class Marathon {
 [**Return to Top**](#30-table-of-contents)
 
 [**Return to Main Page**](index)
-
