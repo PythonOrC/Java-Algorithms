@@ -181,7 +181,7 @@ class Marathon {
 ## Solution
 
 ```
-Solutions will be posted a day before the class.
+Solutions will be posted a day before the class, but you can click on the link below to see a hint.
 ```
 
 [Downlaod Solution](MarathonRunners.java)
