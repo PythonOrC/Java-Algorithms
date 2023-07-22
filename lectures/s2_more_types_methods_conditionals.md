@@ -88,9 +88,9 @@ double b = "hello"; // error
 int c = 5.0; // error
 ```
 
-**Error Message**
+Error Message:
 
-```
+```error
 test.java.2: incompatible types
 found: double
 required: java.lang.String
