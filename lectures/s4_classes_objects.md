@@ -43,7 +43,6 @@ permalink: /lectures/classes_objects/
   - [Problem](#problem)
   - [Step 1: Implement the `Book` class](#step-1-implement-the-book-class)
   - [Step 2: Implement the `Library` class](#step-2-implement-the-library-class)
-    - [Note](#note)
   - [`Book.java`](#bookjava)
   - [`Library.java`](#libraryjava)
 
@@ -637,7 +636,7 @@ Next a class needs to model a library to manage the books. All libraries have th
 
 Copy and paste the skeleton code for `Library.java` into a file called `Library.java`. The `main` method procided creates two libraries, then performs some operations on the books. However, the methods and variables are not implemented. Define and implement those. Read the `main` method and look and compile erros to figure out what methods are missing.
 
-#### Note
+#### Note<!-- omit from toc -->
 
 - some methods will need to be `static`, and some needs to be `instance` methods
 - careful with comparing `String` objects as they are reference types and can only be compared using `.equals()` (`String1.equals(String2)`)
