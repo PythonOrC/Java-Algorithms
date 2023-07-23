@@ -14,7 +14,7 @@ permalink: /homework/
 - [Assignment 3: Marathon Runners](#assignment-3-marathon-runners)
   - [Question](#question-2)
   - [Solution](#solution-2)
-- [Assignment 4 - Library](#assignment-4---library)
+- [Assignment 4: Library](#assignment-4-library)
   - [Problem](#problem)
   - [Step 1: Implement the `Book` class](#step-1-implement-the-book-class)
   - [Step 2: Implement the `Library` class](#step-2-implement-the-library-class)
@@ -250,7 +250,7 @@ class MarathonRunners {
 
 [Downlaod Solution](MarathonRunners.java)
 
-## Assignment 4 - Library
+## Assignment 4: Library
 
 ### Problem
 
