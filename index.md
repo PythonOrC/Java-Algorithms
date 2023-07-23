@@ -68,3 +68,4 @@ Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWI
 
 - Week 2: Loops, Arrays
   - Session 3: [Loops, Arrays](/lectures/loops_arrays)
+  - Session 4: [Classes, Objects](/lectures/classes_objects)
