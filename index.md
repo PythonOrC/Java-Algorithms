@@ -61,11 +61,11 @@ Registration Link: https://us02web.zoom.us/meeting/register/tZ0lfuqpqD4sGNMuBhWI
 
 - Homework
   - [Homework](homework/homework.md)
-- Week 1: Introduction to Java
+- Week 1:
 
   - Session 1: [Types, Variables, Operators](lectures/types_variables_operators)
   - Session 2: [More types, Methods, Conditionals](lectures/more_types_methods_conditionals)
 
-- Week 2: Loops, Arrays
+- Week 2:
   - Session 3: [Loops, Arrays](/lectures/loops_arrays)
   - Session 4: [Classes, Objects](/lectures/classes_objects)
