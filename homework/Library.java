@@ -1,5 +1,79 @@
+import java.util.Arrays;
+
 public class Library {
-    // Add the missing implementation to this class
+    String address;
+    Book[] books = new Book[2];
+
+    public Library(String address) {
+        this.address = address;
+    }
+
+    public void addBook(Book book) {
+        // add book to books array if there is space, otherwise make a new array with
+        // double the size
+
+        for (int i = 0; i < books.length; i++) {
+            if (books[i] == null) {
+                books[i] = book;
+                return;
+            }
+        }
+
+        // expand array
+        Book[] newBooks = Arrays.copyOf(books, books.length * 2);
+        newBooks[books.length] = book;
+        books = newBooks;
+    }
+
+    static void printOpeningHours() {
+        System.out.println("Libraries are open daily from 9am to 5pm.");
+    }
+
+    void printAddress() {
+        System.out.println(this.address);
+    }
+
+    void borrowBook(String title) {
+        // check if book is available
+        for (int i = 0; i < books.length; i++) {
+            if (books[i] != null && books[i].getTitle().equals(title)) {
+                if (books[i].isBorrowed()) {
+                    System.out.println("Sorry, this book is already borrowed.");
+                } else {
+                    books[i].borrowed();
+                    System.out.println("You successfully borrowed " + title);
+                }
+                return;
+            }
+        }
+        System.out.println("Sorry, this book is not in our catalog.");
+    }
+
+    void printAvailableBooks() {
+        boolean empty = true;
+        for (int i = 0; i < books.length; i++) {
+            if (books[i] != null && !books[i].isBorrowed()) {
+                System.out.println(books[i].getTitle());
+                empty = false;
+            }
+        }
+        if (empty) {
+            System.out.println("No book in catalog");
+        }
+    }
+
+    void returnBook(String title) {
+        // check if book is available
+        for (int i = 0; i < books.length; i++) {
+            if (books[i] != null && books[i].getTitle().equals(title)) {
+                books[i].returned();
+                System.out.println("You successfully returned " + title);
+                return;
+            }
+        }
+        System.out.println("Sorry, this book is not in our catalog.");
+    }
+
     public static void main(String[] args) {
         // Create two libraries
         Library firstLibrary = new Library("10 Main St.");
